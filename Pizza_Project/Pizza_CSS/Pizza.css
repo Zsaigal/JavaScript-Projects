@@ -1,0 +1,76 @@
+#menuBG {
+    width: 400px;
+    height: 470px;
+    margin: 10px auto;
+}
+
+#frmMenu {
+    width: 600px;
+    height: 200px;
+}
+
+.menu-container {
+    width: 600px;
+    height: 200px;
+}
+#totalPrice {
+    width: 200px;
+    height: 190px;
+    margin: 0 auto;
+    float: right;/* Avoid using float for layout */
+}
+
+.menu-left {
+    width: 200px;
+    height: 200px;
+    float: left;
+    /* Consider using Flexbox or Grid for layout */
+}
+
+.menu-right {
+    width: 200px;
+    height: 200px;
+    float: right;
+   
+   
+}
+.menu-middle {
+    width : 200px;
+    height :200px;
+    float: left;
+}
+
+#showText {
+    width: 200px;
+    height: 190px;
+    margin: 0px auto;
+    float: left;
+}
+#cart {
+    top: 0;
+    margin: 0px auto;
+    width: 400px;
+    height: 200px;
+}
+
+#btnorder {
+    margin: 10px 0px 0px 100px;
+    width: 100px;
+    height: 40px;
+}
+
+body {
+    background-color: blue;
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: azure;
+}
+h3 {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: azure;
+}
+div {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: azure;
+}
